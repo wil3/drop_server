@@ -11,12 +11,12 @@ Install and Run
 API
 ---
 
+##### Test fo network connectivity, report IP address
 * GET /api/ping
-..*Test fo network connectivity, report IP address
+##### Drop text information	
 * POST /api/scan
-..* Drop text information	
+##### Drop files
 * POST /api/drop
-..* Drop files
 
 Warning!
 -------
