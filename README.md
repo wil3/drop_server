@@ -12,11 +12,13 @@ API
 ---
 
 ##### Test fo network connectivity, report IP address
-* GET /api/ping
+GET /api/ping
+
 ##### Drop text information	
-* POST /api/scan
+POST /api/scan
+
 ##### Drop files
-* POST /api/drop
+POST /api/drop
 
 Warning!
 -------
